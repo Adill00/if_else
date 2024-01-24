@@ -1,0 +1,11 @@
+Part 1: Use an array to store the grades of students 
+Calculate and display the average grade using arithmetic operators
+
+Part 2: Check if the average grade is above 80. If it is, display "Good job!"
+Otherwise, display "Keep improving!" using if-else statements
+
+Part 3: Convert the average grade into a letter grade (A, B, C, etc.) using a switch statement
+Consider A (90-100), B (80-89), C (70-79), and below C as F
+
+Part 4: Create an object for a student with properties like name, age, and grade
+Check if the student is eligible for a scholarship based on their grade. If the grade is above 90, display "Scholarship granted!"
