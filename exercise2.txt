@@ -1,0 +1,7 @@
+Part 1: Create an array of objects representing books:
+
+Part 2: Use the typeof operator to check the data type of the 'author' property:
+
+Part 3: Calculate the total number of pages for all books:
+
+Part 4: Display a message using a ternary operator (? :)
